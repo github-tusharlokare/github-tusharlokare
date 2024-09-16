@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @github-tusharlokare
+- 👀 I’m interested in web scraping, data engineering, and data science projects.
+- 🌱 I’m currently learning advanced cloud data warehousing and optimizing ETL processes.
+- 💞️ I’m looking to collaborate on web scraping, ETL, and data science projects, especially those related to automation and data extraction.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tushar-lokare/), [Email](mailto:tusharlokare6@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love singing, playing guitar, and trying my hand at photography and videography!
